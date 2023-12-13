@@ -738,7 +738,7 @@ border:2px solid white;
 ## OUTPUT:
 ![output](server1.jpeg)
 ![output](server2.jpeg)
-![output](Server3.jpeg)
+![output](server3.jpeg)
 ![output](Server4.jpeg)
 ![output](server5.jpeg)
 
